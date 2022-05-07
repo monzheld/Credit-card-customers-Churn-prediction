@@ -1,4 +1,5 @@
-# 카드사 고객 이탈 여부 예측 머신러닝 모델링
+# 카드사 고객 이탈 여부 예측 
+머신러닝 모델을 활용한 카드사 고객 이탈 여부 예측
 
 <br>
 
@@ -56,7 +57,7 @@
 - `SMOTE`로 `oversampling`: 소수 범주에서 가상의 데이터를 생성해 분포를 맞추는 방법
 - `SMOTETomek`: Oversampling과 Undersampling을 함께 수행하는 방법
 
-=> SMOTETomek 데이터가 성능이 가장 높게 나왔으므로 SMOTETomek 데이터 사용
+=> SMOTETomek 데이터가 성능이 가장 높게 나왔으므로 `SMOTETomek` 데이터 사용
 
 
 #### 기준 모델
