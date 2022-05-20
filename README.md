@@ -65,7 +65,7 @@
 - 기준 모델 accuracy: 0.51
 
 #### 모델 비교
-- `LogisticRegression` / `DecisionTreeClassifier` / `RandomForestClassifier` / `XGBoost` 모델을 `StratifiedKFold`로 교차 검증
+- `LogisticRegression` / `DecisionTreeClassifier` / `RandomForestClassifier` / `XGBClassifier` 모델을 `StratifiedKFold`로 교차 검증
 - 평균 정확도가 가장 높게 나온 `RandomForestClassifier`와 `XGBClassifier` 모델 비교 
 
 => `RandomizedSearchCV`한 XGBClassifier 모델의 성능이 더 높아 `XGBClassifier` 모델 선택
