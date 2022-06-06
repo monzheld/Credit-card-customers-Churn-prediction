@@ -47,6 +47,13 @@
 
 <br>
 
+## 데이터셋
+- Credit Card customers
+- 데이터셋 크기: (10127, 21)
+- [데이터 출처](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
+
+<br>
+
 ## 제작 과정
 
 #### 인코딩
